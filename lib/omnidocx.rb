@@ -11,11 +11,11 @@ module Omnidocx
     DOCUMENT_FILE_PATH = 'word/document.xml'
     RELATIONSHIP_FILE_PATH = 'word/_rels/document.xml.rels'
     CONTENT_TYPES_FILE = '[Content_Types].xml'
-    HEADER_RELS_FILE_PATH = 'word/_rels/header1.xml.rels'
-    FOOTER_RELS_FILE_PATH = 'word/_rels/footer1.xml.rels'
+    HEADER_RELS_FILE_PATH = 'word/_rels/header2.xml.rels'
+    FOOTER_RELS_FILE_PATH = 'word/_rels/footer2.xml.rels'
     STYLES_FILE_PATH = "word/styles.xml"
-    HEADER_FILE_PATH = "word/header1.xml"
-    FOOTER_FILE_PATH = "word/footer1.xml"
+    HEADER_FILE_PATH = "word/header2.xml"
+    FOOTER_FILE_PATH = "word/footer2.xml"
 
     MEDIA_TYPE = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
 
